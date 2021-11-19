@@ -173,8 +173,8 @@ export const WithProfile: React.FC = () => {
         cakePriceUsd={0.23158668932877668}
         links={links}
         profile={{
-          username: "pancakeswap",
-          image: "https://pancakeswap.finance/images/nfts/blueberries-preview.png",
+          username: "bmswap",
+          image: "https://bm.finance/images/nfts/blueberries-preview.png",
           profileLink: "/profile",
           noProfileLink: "/no-profile",
         }}
@@ -228,7 +228,7 @@ export const WithSubmenuSelected: React.FC = () => {
         links={links}
         profile={{
           username: "bmswap",
-          image: "https://pancakeswap.finance/images/nfts/blueberries-preview.png",
+          image: "https://bm.finance/images/nfts/blueberries-preview.png",
           profileLink: "/profile",
           noProfileLink: "/no-profile",
         }}
