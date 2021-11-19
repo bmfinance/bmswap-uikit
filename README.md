@@ -8,6 +8,6 @@ The following assumes the use of `node@>=12.13.0`.
 
 `yarn`
 
-## Compile Contracts
+## Compile
 
 `yarn build`
